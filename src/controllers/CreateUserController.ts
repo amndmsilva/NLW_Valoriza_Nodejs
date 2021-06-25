@@ -1,4 +1,4 @@
-import {Request, Response} from "express";
+import { Request, Response } from "express";
 import { CreateUserService } from "../services/CreateUserService";
 
 class CreateUserController {
@@ -14,4 +14,4 @@ class CreateUserController {
   }
 }
 
-export {CreateUserController}
+export { CreateUserController };
