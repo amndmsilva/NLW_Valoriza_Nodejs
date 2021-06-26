@@ -1,5 +1,3 @@
-<img src="./img/nlw.png">
-
 <h1>NLW Valoriza (Next Level Week - Together)</h1>
 
 <h2>📌 Descrição</h2>
